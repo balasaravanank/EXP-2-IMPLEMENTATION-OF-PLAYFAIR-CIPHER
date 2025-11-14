@@ -199,7 +199,8 @@ int main() {
 ```
  
  ## OUTPUT :
- <img width="592" height="296" alt="Screenshot 2025-09-12 082600" src="https://github.com/user-attachments/assets/df5be93e-e4df-470a-866e-b671beec8a85" />
+<img width="2541" height="1576" alt="image" src="https://github.com/user-attachments/assets/7fd001bc-0296-4633-92b8-08ebcca3d471" />
+
 
 
  ## RESULT:
